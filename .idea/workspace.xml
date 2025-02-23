@@ -4,38 +4,67 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c570c1f-2ba6-4a06-81c3-1bf1f1e8ea18" name="Changes" comment="" />
+    <list default="true" id="4c570c1f-2ba6-4a06-81c3-1bf1f1e8ea18" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Controllers/auth.controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Controllers/subscription.controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Controllers/user.controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Controllers/workflow.controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Routes/workflow.routes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/arcjet.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/upstash.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middleware/arcjet.middleware.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middleware/auth.middleware.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middleware/error.middleware.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Routes/auth.routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/Routes/auth.routes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Routes/subscription.routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/Routes/subscription.routes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Routes/user.routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/Routes/user.routes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/env.js" beforeDir="false" afterPath="$PROJECT_DIR$/config/env.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/subscription.model.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/subscription.model.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/user.model.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/user.model.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
   <component name="ProjectId" id="2tO3XxVH5FY8MgPznNCSYZ7fYA3" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "dart.analysis.tool.window.visible": "false",
-    "js.linters.configure.manually.selectedeslint": "true",
-    "last_opened_file_path": "C:/Users/omkar/Desktop/Subscription System",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.standard": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "C:\\Users\\omkar\\Desktop\\Subscription System\\node_modules\\eslint",
-    "node.js.selected.package.standard": "",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "settings.javascript.linters.eslint",
-    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2024.3.2.1\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;js.linters.configure.manually.selectedeslint&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/omkar/Desktop/Subscription System&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.standard&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;C:\\Users\\omkar\\Desktop\\Subscription System\\node_modules\\eslint&quot;,
+    &quot;node.js.selected.package.standard&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.javascript.linters.eslint&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\WebStorm 2024.3.2.1\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -52,7 +81,12 @@
       <option name="presentableId" value="Default" />
       <updated>1740209337989</updated>
       <workItem from="1740209339293" duration="9000" />
-      <workItem from="1740209359064" duration="10396000" />
+      <workItem from="1740209359064" duration="10579000" />
+      <workItem from="1740294492292" duration="6369000" />
+      <workItem from="1740301943395" duration="506000" />
+      <workItem from="1740302467917" duration="10569000" />
+      <workItem from="1740316367669" duration="1074000" />
+      <workItem from="1740317584711" duration="1113000" />
     </task>
     <servers />
   </component>
